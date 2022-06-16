@@ -30,3 +30,5 @@ class 모델:
         네트워크.add(tf.keras.layers.ReLU())
 
         return 네트워크
+
+    
